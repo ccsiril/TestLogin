@@ -1,0 +1,29 @@
+input.ng-invalid{
+    border: 1.9px solid red;
+}
+
+input.ng-valid{
+    border: 1.9px solid green;
+}
+
+
+.error{
+    color: red;
+}
+
+.invalid{
+    color: #f5a442;
+}
+
+.col-sm-3{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
+p.a{
+    color: #3492eb; 
+    text-align: center; 
+    margin-top: 80px;
+    font-family: fantasy;
+    font-size: 300%;
+}
